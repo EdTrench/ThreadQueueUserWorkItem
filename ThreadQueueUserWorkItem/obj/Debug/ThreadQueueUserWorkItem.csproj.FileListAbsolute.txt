@@ -1,0 +1,12 @@
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\ThreadQueueUserWorkItem\bin\Debug\ThreadQueueUserWorkItem.exe.config
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\ThreadQueueUserWorkItem\bin\Debug\ThreadQueueUserWorkItem.exe
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\ThreadQueueUserWorkItem\bin\Debug\ThreadQueueUserWorkItem.pdb
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\ThreadQueueUserWorkItem\obj\Debug\ThreadQueueUserWorkItem.csprojResolveAssemblyReference.cache
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\ThreadQueueUserWorkItem\obj\Debug\ThreadQueueUserWorkItem.exe
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\ThreadQueueUserWorkItem\obj\Debug\ThreadQueueUserWorkItem.pdb
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\ThreadQueueUserWorkItem\ThreadQueueUserWorkItem\bin\Debug\ThreadQueueUserWorkItem.exe.config
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\ThreadQueueUserWorkItem\ThreadQueueUserWorkItem\obj\Debug\ThreadQueueUserWorkItem.exe
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\ThreadQueueUserWorkItem\ThreadQueueUserWorkItem\obj\Debug\ThreadQueueUserWorkItem.pdb
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\ThreadQueueUserWorkItem\ThreadQueueUserWorkItem\bin\Debug\ThreadQueueUserWorkItem.exe
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\ThreadQueueUserWorkItem\ThreadQueueUserWorkItem\bin\Debug\ThreadQueueUserWorkItem.pdb
+\\asdanbs\users$\edtrenchard\My Documents\Visual Studio 2013\Projects\ThreadQueueUserWorkItem\ThreadQueueUserWorkItem\obj\Debug\ThreadQueueUserWorkItem.csprojResolveAssemblyReference.cache
